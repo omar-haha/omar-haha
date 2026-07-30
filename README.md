@@ -1,5 +1,7 @@
 ## Harun Omar
 
+[omar-haha.github.io](https://omar-haha.github.io)
+
 Software Engineering student at Concordia University (B.Eng., Fall 2026).
 Building full-stack web and mobile applications with a focus on shipping real things.
 

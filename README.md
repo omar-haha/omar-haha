@@ -1,16 +1,25 @@
-## Hi there 👋
+## Harun Omar
 
-<!--
-**omar-haha/omar-haha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Concordia University (B.Eng., Fall 2026).
+Building full-stack web and mobile applications with a focus on shipping real things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working with**
+
+TypeScript · Next.js · React Native · Node.js · PostgreSQL · Docker
+
+---
+
+**Projects**
+
+| Project | What it is |
+|---|---|
+| [RCCA](https://github.com/omar-haha/rcca) | Self-hosted e-commerce storefront — Next.js 15, Supabase, Cloudflare, Docker |
+| [MeMantra](https://github.com/MeMantraa/MeMantra) | Mental wellness app — React Native, 11-person Agile team, full CI pipeline |
+| [Finance Dashboard](https://github.com/omar-haha/finance-dashboard) | Android finance tracker — React Native, Node.js, PostgreSQL |
+| [Portfolio](https://omar-haha.github.io) | This portfolio — plain HTML/CSS |
+
+---
+
+📫 [harunager@outlook.com](mailto:harunager@outlook.com) · [LinkedIn](https://linkedin.com/in/harunslahaldinomar)

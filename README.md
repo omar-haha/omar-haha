@@ -15,7 +15,7 @@ TypeScript · Next.js · React Native · Node.js · PostgreSQL · Docker
 
 | Project | What it is |
 |---|---|
-| [RCCA](https://github.com/omar-haha/rcca) | Self-hosted e-commerce storefront — Next.js 15, Supabase, Cloudflare, Docker |
+| [Vessel](https://github.com/omar-haha/vessel) | Self-hosted e-commerce storefront demo — Next.js 15, Supabase, Cloudflare, Docker |
 | [MeMantra](https://github.com/MeMantraa/MeMantra) | Mental wellness app — React Native, 11-person Agile team, full CI pipeline |
 | [Finance Dashboard](https://github.com/omar-haha/finance-dashboard) | Android finance tracker — React Native, Node.js, PostgreSQL |
 | [Portfolio](https://omar-haha.github.io) | Personal portfolio — plain HTML/CSS |
